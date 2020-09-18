@@ -11,7 +11,5 @@ function waitPageLoading() {
         header.style.display = "flex";
 
     }, 3000);
-
 }
-
 waitPageLoading();
